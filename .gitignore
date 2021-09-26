@@ -2,4 +2,4 @@
 /build
 /build/*
 /l-build
-/public
+# /public
