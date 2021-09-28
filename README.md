@@ -4,7 +4,7 @@ This server hosts the B-Protocol implemented Liqiuty Frontend
 
 ## Steps to Take
 
-1. Clone/fork [AngelDAO/Liquity-B-Protocol-Integration](https://github.com/AngelDao/Liquity-b-protocol-Frontend).
+1. Clone/fork [AngelDAO/Liquity-B-Protocol-Integration](https://github.com/AngelDao/Liquity-b-protocol-Frontend)
 
 2. Go to repo in terminal, then navigate to `/dev` and run `yarn` followed by `yarn build`. This will output a `bulid/` directory in `./dev/packages/dev-frontend/`
 
